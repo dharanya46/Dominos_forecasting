@@ -1,0 +1,1 @@
+This project aims to forecast pizza sales for the next week and predict the necessary ingredients required to meet that demand. The solution uses historical sales data to build predictive models and ensures that the required ingredients are kept in stock for upcoming orders.
